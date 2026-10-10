@@ -21,10 +21,9 @@ Python 3
 - Buscar un estudiante por nombre
 - Modificar una calificación y mostrar el vector actualizado
 
-## Instrucciones para ejecutar
-1. Instala Python 3 desde https://www.python.org/downloads/
-2. Descarga o clona este repositorio.
-3. Abre una terminal en la carpeta del proyecto y ejecuta:
+## Instrucción básica para poder ejecutarlo:
+
+3. Abre una terminal en la carpeta del proyecto y ejecuta en tu entorno de desarrollo o en Python web con el codigo:
 
 ```
 python sistema_calificaciones.py
